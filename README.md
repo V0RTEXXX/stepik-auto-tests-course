@@ -1,1 +1,1 @@
-# stepik-auto-tests-course
+Repository for stepik auto test course
